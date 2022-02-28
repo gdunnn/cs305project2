@@ -10,7 +10,7 @@ Project 2 for CS 305
 
 - What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
-It was helpful because it gave me a much bigger picture on what was needed to be done, however it was very challenging at first getting used to how everything worked. Figuring out what to scan and what not to scan when it came to the vulnerabilities of the dependencies being used was definitely a challenge. StackOverflow was my best pal during this term.
+  It was helpful because it gave me a much bigger picture on what was needed to be done, however it was very challenging at first getting used to how everything worked. Figuring out what to scan and what not to scan when it came to the vulnerabilities of the dependencies being used was definitely a challenge. StackOverflow was my best pal during this term.
 
 - How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
